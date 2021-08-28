@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body {
+  background-image: url("background.png");
+}
+
+.chart {
+  width:80%;
+  margin: 10% 10%;
+}
+.heading {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 20px;
+}
